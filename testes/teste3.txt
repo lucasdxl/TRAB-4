@@ -1,0 +1,20 @@
+(START)
+*{ Programa 3: expressoes aninhadas, comentarios em varias posicoes }*
+(2 3 +) *{ comentario no fim da linha }*
+*{ comentario em linha inteira }*
+((3 2 +) (5 1 -) *)
+(((2 3 +) 4 *) 2 /)
+(9 4 %)
+(8.0 *{ comentario entre tokens }* 2.0 |)
+(2 3 ^)
+(0 MEM BASE)
+(1 MEM FATOR)
+(5 MEM LIMITE)
+(BASE)
+(1 RES)
+((BASE FATOR +) MEM BASE)
+(IF (BASE LIMITE <) (BASE 2 *) (BASE FATOR -))
+(0 MEM N)
+(WHILE (N 4 <) ((N 1 +) MEM N))
+(FOR 1 5 K (K K *))
+(END)

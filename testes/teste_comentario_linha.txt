@@ -1,0 +1,4 @@
+(START)
+*{ este comentário deve ser ignorado pelo léxico }*
+(3 4 +)
+(END)

@@ -1,0 +1,26 @@
+(START)
+*{ Programa com erros semanticos intencionais }*
+(5 3 +)
+(10 2 -)
+(4 3 *)
+(9.0 3.0 |)
+(2 3 ^)
+(10 MEM INTVAR)
+(3.5 MEM REALVAR) *{ REALVAR e REAL }*
+(INTVAR)
+(REALVAR)
+(9 4 /)
+(9 4 %)
+(3.5 2 /)
+*{ erro 1: divisao inteira com REAL no lado esquerdo }*
+(5 2.5 %)
+*{ erro 2: modulo com REAL no lado direito }*
+(XSEMDEF 5 +)
+*{ erro 3: variavel XSEMDEF nao declarada }*
+(100 RES)
+*{ erro 4: RES referencia linha inexistente }*
+(IF (INTVAR 5 <) (3 3 +) (2 2 -))
+(0 MEM CNT)
+(WHILE (CNT 3 <) ((CNT 1 +) MEM CNT))
+(FOR 1 5 J (J 2 *))
+(END)

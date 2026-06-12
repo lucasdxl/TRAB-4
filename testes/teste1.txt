@@ -1,0 +1,20 @@
+(START)
+*{ Programa valido: todas as operacoes, memoria, RES, IF, WHILE, FOR }*
+(5 3 +)
+(10 2 -)
+(4 3 *)
+(9.0 3.0 |)
+(9 4 /)
+(9 4 %)
+(2 3 ^)
+(15 MEM TOTAL) *{ define variavel inteira TOTAL }*
+(2.5 MEM PESO)
+(TOTAL)
+(1 RES)
+((5 3 +) 2 *)
+(IF (TOTAL 10 <) (3 3 +) (2 2 -))
+(0 MEM CONT)
+(WHILE (CONT 5 <) ((CONT 1 +) MEM CONT))
+(FOR 1 5 I (I 2 *))
+*{ fim do programa valido }*
+(END)

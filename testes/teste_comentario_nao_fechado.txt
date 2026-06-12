@@ -1,0 +1,4 @@
+(START)
+*{ comentário aberto
+(3 4 +)
+(END)

@@ -1,0 +1,3 @@
+(START)
+(3 *{ comentário entre operandos }* 4 +)
+(END)
