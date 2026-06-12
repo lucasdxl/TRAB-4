@@ -1,0 +1,190 @@
+{
+  "arquivo": "D:\\Faculdade\\9º PERÍODO\\COMPILADORES\\TRAB 4\\testes\\testeLucasMorse.txt",
+  "valores_ascii": [
+    76,
+    85,
+    67,
+    65,
+    83
+  ],
+  "texto": "LUCAS",
+  "morse": [
+    {
+      "caractere": "L",
+      "morse": ".-.."
+    },
+    {
+      "caractere": "U",
+      "morse": "..-"
+    },
+    {
+      "caractere": "C",
+      "morse": "-.-."
+    },
+    {
+      "caractere": "A",
+      "morse": ".-"
+    },
+    {
+      "caractere": "S",
+      "morse": "..."
+    }
+  ],
+  "eventos": [
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de U"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de U"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de U"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de U"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de U"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de C"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de C"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de C"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de C"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de C"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de C"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de C"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de A"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de A"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de A"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de S"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de S"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de S"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de S"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de S"
+    }
+  ]
+}
