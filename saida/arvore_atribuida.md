@@ -1,0 +1,49 @@
+# Árvore Sintática Atribuída
+
+Arquivo: `testeLucasMorse.txt`
+
+- **sequencia** → `INT`
+  - **expressao_aritmetica** → `INT`
+    - **terminal** → `INT`
+    - **terminal** → `INT`
+  - **sequencia** → `INT`
+    - **expressao_aritmetica** → `INT`
+      - **terminal** → `INT`
+      - **terminal** → `INT`
+    - **sequencia** → `INT`
+      - **expressao_aritmetica** → `INT`
+        - **terminal** → `INT`
+        - **terminal** → `INT`
+      - **sequencia** → `INT`
+        - **expressao_aritmetica** → `INT`
+          - **terminal** → `INT`
+          - **terminal** → `INT`
+        - **sequencia** → `INT`
+          - **expressao_aritmetica** → `INT`
+            - **terminal** → `INT`
+            - **terminal** → `INT`
+          - **sequencia** → `INT`
+            - **expressao_aritmetica** → `INT`
+              - **terminal** → `INT`
+              - **terminal** → `INT`
+            - **sequencia** → `INT`
+              - **expressao_aritmetica** → `INT`
+                - **terminal** → `INT`
+                - **terminal** → `INT`
+              - **sequencia** → `INT`
+                - **expressao_aritmetica** → `INT`
+                  - **terminal** → `INT`
+                  - **terminal** → `INT`
+                - **sequencia** → `INT`
+                  - **expressao_aritmetica** → `INT`
+                    - **terminal** → `INT`
+                    - **terminal** → `INT`
+                  - **sequencia** → `INT`
+                    - **expressao_aritmetica** → `INT`
+                      - **terminal** → `INT`
+                      - **terminal** → `INT`
+                    - **sequencia** → `INT`
+                      - **expressao_aritmetica** → `INT`
+                        - **terminal** → `INT`
+                        - **terminal** → `INT`
+                      - **fim_programa** → `None`

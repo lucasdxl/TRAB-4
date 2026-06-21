@@ -5,9 +5,15 @@
     85,
     67,
     65,
-    83
+    83,
+    32,
+    86,
+    73,
+    76,
+    65,
+    82
   ],
-  "texto": "LUCAS",
+  "texto": "LUCAS VILAR",
   "morse": [
     {
       "caractere": "L",
@@ -28,6 +34,30 @@
     {
       "caractere": "S",
       "morse": "..."
+    },
+    {
+      "caractere": " ",
+      "morse": " "
+    },
+    {
+      "caractere": "V",
+      "morse": "...-"
+    },
+    {
+      "caractere": "I",
+      "morse": ".."
+    },
+    {
+      "caractere": "L",
+      "morse": ".-.."
+    },
+    {
+      "caractere": "A",
+      "morse": ".-"
+    },
+    {
+      "caractere": "R",
+      "morse": ".-."
     }
   ],
   "eventos": [
@@ -185,6 +215,156 @@
       "estado": "ON",
       "duracao_ms": 300,
       "descricao": "ponto de S"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 2000,
+      "descricao": "espaço entre palavras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de V"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de V"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de V"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de V"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de V"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de V"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de V"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de I"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de I"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de I"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de L"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de L"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de A"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de A"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de A"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 900,
+      "descricao": "espaço entre letras"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de R"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de R"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 600,
+      "descricao": "traço de R"
+    },
+    {
+      "estado": "OFF",
+      "duracao_ms": 450,
+      "descricao": "espaço interno de R"
+    },
+    {
+      "estado": "ON",
+      "duracao_ms": 300,
+      "descricao": "ponto de R"
     }
   ]
 }

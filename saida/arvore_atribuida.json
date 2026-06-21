@@ -1,0 +1,291 @@
+{
+  "tipo": "sequencia",
+  "atual": {
+    "tipo": "expressao_aritmetica",
+    "operador": "+",
+    "operandos": [
+      {
+        "tipo": "terminal",
+        "simbolo": "INT",
+        "valor": "70",
+        "linha": 2,
+        "tipo_inferido": "INT"
+      },
+      {
+        "tipo": "terminal",
+        "simbolo": "INT",
+        "valor": "6",
+        "linha": 2,
+        "tipo_inferido": "INT"
+      }
+    ],
+    "linha": 2,
+    "tipo_inferido": "INT"
+  },
+  "proximo": {
+    "tipo": "sequencia",
+    "atual": {
+      "tipo": "expressao_aritmetica",
+      "operador": "+",
+      "operandos": [
+        {
+          "tipo": "terminal",
+          "simbolo": "INT",
+          "valor": "80",
+          "linha": 3,
+          "tipo_inferido": "INT"
+        },
+        {
+          "tipo": "terminal",
+          "simbolo": "INT",
+          "valor": "5",
+          "linha": 3,
+          "tipo_inferido": "INT"
+        }
+      ],
+      "linha": 3,
+      "tipo_inferido": "INT"
+    },
+    "proximo": {
+      "tipo": "sequencia",
+      "atual": {
+        "tipo": "expressao_aritmetica",
+        "operador": "+",
+        "operandos": [
+          {
+            "tipo": "terminal",
+            "simbolo": "INT",
+            "valor": "60",
+            "linha": 4,
+            "tipo_inferido": "INT"
+          },
+          {
+            "tipo": "terminal",
+            "simbolo": "INT",
+            "valor": "7",
+            "linha": 4,
+            "tipo_inferido": "INT"
+          }
+        ],
+        "linha": 4,
+        "tipo_inferido": "INT"
+      },
+      "proximo": {
+        "tipo": "sequencia",
+        "atual": {
+          "tipo": "expressao_aritmetica",
+          "operador": "+",
+          "operandos": [
+            {
+              "tipo": "terminal",
+              "simbolo": "INT",
+              "valor": "60",
+              "linha": 5,
+              "tipo_inferido": "INT"
+            },
+            {
+              "tipo": "terminal",
+              "simbolo": "INT",
+              "valor": "5",
+              "linha": 5,
+              "tipo_inferido": "INT"
+            }
+          ],
+          "linha": 5,
+          "tipo_inferido": "INT"
+        },
+        "proximo": {
+          "tipo": "sequencia",
+          "atual": {
+            "tipo": "expressao_aritmetica",
+            "operador": "+",
+            "operandos": [
+              {
+                "tipo": "terminal",
+                "simbolo": "INT",
+                "valor": "80",
+                "linha": 6,
+                "tipo_inferido": "INT"
+              },
+              {
+                "tipo": "terminal",
+                "simbolo": "INT",
+                "valor": "3",
+                "linha": 6,
+                "tipo_inferido": "INT"
+              }
+            ],
+            "linha": 6,
+            "tipo_inferido": "INT"
+          },
+          "proximo": {
+            "tipo": "sequencia",
+            "atual": {
+              "tipo": "expressao_aritmetica",
+              "operador": "+",
+              "operandos": [
+                {
+                  "tipo": "terminal",
+                  "simbolo": "INT",
+                  "valor": "30",
+                  "linha": 7,
+                  "tipo_inferido": "INT"
+                },
+                {
+                  "tipo": "terminal",
+                  "simbolo": "INT",
+                  "valor": "2",
+                  "linha": 7,
+                  "tipo_inferido": "INT"
+                }
+              ],
+              "linha": 7,
+              "tipo_inferido": "INT"
+            },
+            "proximo": {
+              "tipo": "sequencia",
+              "atual": {
+                "tipo": "expressao_aritmetica",
+                "operador": "+",
+                "operandos": [
+                  {
+                    "tipo": "terminal",
+                    "simbolo": "INT",
+                    "valor": "80",
+                    "linha": 8,
+                    "tipo_inferido": "INT"
+                  },
+                  {
+                    "tipo": "terminal",
+                    "simbolo": "INT",
+                    "valor": "6",
+                    "linha": 8,
+                    "tipo_inferido": "INT"
+                  }
+                ],
+                "linha": 8,
+                "tipo_inferido": "INT"
+              },
+              "proximo": {
+                "tipo": "sequencia",
+                "atual": {
+                  "tipo": "expressao_aritmetica",
+                  "operador": "+",
+                  "operandos": [
+                    {
+                      "tipo": "terminal",
+                      "simbolo": "INT",
+                      "valor": "70",
+                      "linha": 9,
+                      "tipo_inferido": "INT"
+                    },
+                    {
+                      "tipo": "terminal",
+                      "simbolo": "INT",
+                      "valor": "3",
+                      "linha": 9,
+                      "tipo_inferido": "INT"
+                    }
+                  ],
+                  "linha": 9,
+                  "tipo_inferido": "INT"
+                },
+                "proximo": {
+                  "tipo": "sequencia",
+                  "atual": {
+                    "tipo": "expressao_aritmetica",
+                    "operador": "+",
+                    "operandos": [
+                      {
+                        "tipo": "terminal",
+                        "simbolo": "INT",
+                        "valor": "70",
+                        "linha": 10,
+                        "tipo_inferido": "INT"
+                      },
+                      {
+                        "tipo": "terminal",
+                        "simbolo": "INT",
+                        "valor": "6",
+                        "linha": 10,
+                        "tipo_inferido": "INT"
+                      }
+                    ],
+                    "linha": 10,
+                    "tipo_inferido": "INT"
+                  },
+                  "proximo": {
+                    "tipo": "sequencia",
+                    "atual": {
+                      "tipo": "expressao_aritmetica",
+                      "operador": "+",
+                      "operandos": [
+                        {
+                          "tipo": "terminal",
+                          "simbolo": "INT",
+                          "valor": "60",
+                          "linha": 11,
+                          "tipo_inferido": "INT"
+                        },
+                        {
+                          "tipo": "terminal",
+                          "simbolo": "INT",
+                          "valor": "5",
+                          "linha": 11,
+                          "tipo_inferido": "INT"
+                        }
+                      ],
+                      "linha": 11,
+                      "tipo_inferido": "INT"
+                    },
+                    "proximo": {
+                      "tipo": "sequencia",
+                      "atual": {
+                        "tipo": "expressao_aritmetica",
+                        "operador": "+",
+                        "operandos": [
+                          {
+                            "tipo": "terminal",
+                            "simbolo": "INT",
+                            "valor": "80",
+                            "linha": 12,
+                            "tipo_inferido": "INT"
+                          },
+                          {
+                            "tipo": "terminal",
+                            "simbolo": "INT",
+                            "valor": "2",
+                            "linha": 12,
+                            "tipo_inferido": "INT"
+                          }
+                        ],
+                        "linha": 12,
+                        "tipo_inferido": "INT"
+                      },
+                      "proximo": {
+                        "tipo": "fim_programa",
+                        "linha": 13,
+                        "tipo_inferido": null
+                      },
+                      "tipo_inferido": "INT"
+                    },
+                    "tipo_inferido": "INT"
+                  },
+                  "tipo_inferido": "INT"
+                },
+                "tipo_inferido": "INT"
+              },
+              "tipo_inferido": "INT"
+            },
+            "tipo_inferido": "INT"
+          },
+          "tipo_inferido": "INT"
+        },
+        "tipo_inferido": "INT"
+      },
+      "tipo_inferido": "INT"
+    },
+    "tipo_inferido": "INT"
+  },
+  "tipo_inferido": "INT"
+}

@@ -1,0 +1,13 @@
+{
+  "arquivo_analisado": "testeLucasMorse.txt",
+  "tokens_reconhecidos": 62,
+  "simbolos_registrados": 0,
+  "total_erros": 0,
+  "erros": [],
+  "assembly_gerado": false,
+  "elf_gerado": true,
+  "texto_morse": "LUCAS VILAR",
+  "eventos_morse": 61,
+  "instrucoes_arm": 623,
+  "tamanho_codigo_arm_bytes": 2492
+}
